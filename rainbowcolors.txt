@@ -1,2 +1,4 @@
 red
 orangr eat;
+“Yellow is the third
+color of the rainbow.”
